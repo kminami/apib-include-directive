@@ -2,7 +2,7 @@
 Expand Include directive in API Blueprint
 
 This is a part of `aglio`.
-See [https://github.com/danielgtaylor/aglio#including-files][].
+See https://github.com/danielgtaylor/aglio#including-files .
 
 # License
 
